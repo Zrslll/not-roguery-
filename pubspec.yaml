@@ -1,0 +1,26 @@
+name: notroguery
+description: Тестовое задание от НеКидаем.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.9.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  http: ^0.12.2
+  flutter_secure_storage: ^3.3.5
+  easy_localization: ^2.3.0
+  easy_localization_loader: ^0.0.2
+  flutter_bloc: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/translations/

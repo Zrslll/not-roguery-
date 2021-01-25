@@ -1,0 +1,12 @@
+{
+    "kanban": "Kanban",
+    "logIn": "Log In",
+    "username": "Username",
+    "password": "Password",
+    "an_error_occurred": "An Error Occurred",
+    "exit": "Ext",
+    "on_hold": "On hold",
+    "in_progress": "In progress",
+    "needs_review": "Needs review",
+    "approved": "Approved"
+}
